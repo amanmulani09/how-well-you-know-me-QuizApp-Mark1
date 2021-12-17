@@ -8,4 +8,4 @@ Dependencies used:
 
 readline-sync
 
-https://replit.com/@AmanMulani1/How-Well-You-Know-Me-CLI-App-1#index.js
+https://replit.com/@AmanMulani1/How-Well-You-Know-Me-CLI-App-1?embed=1&output=1#index.js
